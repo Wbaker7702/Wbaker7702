@@ -25,6 +25,3 @@ _(If you know, you know…)_
 
 > “Provisioned by Google since 13. Green comes in many shades—so does innovation.”
 
-<!--
-Add more about your favorite projects, or links to socials/portfolio if you want!
--->
