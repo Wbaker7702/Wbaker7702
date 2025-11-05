@@ -62,3 +62,38 @@ A few project callouts (link to repos or demos as appropriate):
 
 ---
 
+General recommendations for most projects:
+
+Install Node.js 18+ (if JS/TS project)
+
+Use npm or yarn to install dependencies:
+
+npm install
+
+# or
+
+yarn
+
+For VS Code extensions:
+
+bash
+
+만
+
+# install deps
+
+npm install
+
+# compile if TypeScript
+
+npm run compile
+
+# run extension host (in VS Code: press
+
+Development & Build (example workflows)
+
+Use GitHub Actions to automate builds and tests. Example workflow files live under.github/workflows/(e.g. build.yml) to run Cl on pushes and PRs.
+
+To create a local build/package (VSIX for extensions):
+
+
