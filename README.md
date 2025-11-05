@@ -62,7 +62,7 @@ A few project callouts (link to repos or demos as appropriate):
 
 ---
 
-General recommendations for most projects:
+##General recommendations for most projects:
 
 Install Node.js 18+ (if JS/TS project)
 
@@ -83,7 +83,7 @@ npm install
 npm run compile
 # run extension host (in VS Code: press
 
-Development & Build (example workflows)
+##Development & Build (example workflows)
 
 Use GitHub Actions to automate builds and tests. Example workflow files live under.github/workflows/(e.g. build.yml) to run Cl on pushes and PRs.
 
@@ -100,7 +100,7 @@ snyk test or snyk monitor in your Cl
 npm run lint
 npm test
 
-Contributing
+##Contributing
 
 Thanks for wanting to contribute! A
 
@@ -118,7 +118,7 @@ suggested workflow:
 
 Be sure to check CONTRIBUTING.md and any project-specific guidelines.
 
-Contact
+##Contact
 
 GitHub: https://github.com/Wbaker7702
 
@@ -126,8 +126,8 @@ Email: wbaker7702@mail.kvcc.edu
        baker.wes2021@gmail.com
 
 
-License
+##License
 
 MIT/Apache 2.0 License Wes Baker©️™️®️
 
-Thanks for visiting - I build in public. If you want to collaborate or ask about anything, open an issue or send a PR.
+##Thanks for visiting - I build in public. If you want to collaborate or ask about anything, open an issue or send a PR.
