@@ -119,3 +119,15 @@ suggested workflow:
 Be sure to check CONTRIBUTING.md and any project-specific guidelines.
 
 Contact
+
+GitHub: https://github.com/Wbaker7702
+
+Email: wbaker7702@mail.kvcc.edu 
+       baker.wes2021@gmail.com
+
+
+License
+
+MIT/Apache 2.0 License Wes Baker©️™️®️
+
+Thanks for visiting - I build in public. If you want to collaborate or ask about anything, open an issue or send a PR.
