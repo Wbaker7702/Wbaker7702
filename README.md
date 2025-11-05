@@ -19,7 +19,6 @@ Welcome — I’m Wes. I build with ML/AI, ship products fast, and learn in publ
 - [What I work on](#what-i-work-on)
 - [Highlights & Projects](#highlights--projects)
 - [Getting started / Local setup](#getting-started--local-setup)
-- [Development & Build](#development--build)
 - [Contributing](#contributing)
 - [Contact](#contact)
 - [License](#license)
