@@ -77,17 +77,10 @@ yarn
 For VS Code extensions:
 
 bash
-
-만
-
 # install deps
-
 npm install
-
 # compile if TypeScript
-
 npm run compile
-
 # run extension host (in VS Code: press
 
 Development & Build (example workflows)
@@ -96,4 +89,33 @@ Use GitHub Actions to automate builds and tests. Example workflow files live und
 
 To create a local build/package (VSIX for extensions):
 
+bash
+npm install -g
+vsce
+vsce package
 
+For security checks (Snyk) and linting, add Cl steps:
+
+snyk test or snyk monitor in your Cl
+npm run lint
+npm test
+
+Contributing
+
+Thanks for wanting to contribute! A
+
+suggested workflow:
+
+1. Fork the repo
+
+2. Create a branch: git checkout -b feat/your-feature
+
+3. Make changes, add tests where appropriate
+
+4. Run linters and tests locally
+
+5. Push and open a pull request
+
+Be sure to check CONTRIBUTING.md and any project-specific guidelines.
+
+Contact
