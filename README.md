@@ -72,7 +72,7 @@ A few project callouts (link to repos or demos as appropriate):
 ## ⬇️ Getting Started / Local Setup
 
 Clone the repo:
-```bash
+
 git clone [https://github.com/Wbaker7702/Wbaker7702.git](https://github.com/Wbaker7702/Wbaker7702.git)
 cd Wbaker7702
 
