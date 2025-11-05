@@ -58,7 +58,7 @@ A few project callouts (link to repos or demos as appropriate):
 - bootstrap (personal fork/experiments) — UI utilities, theme experiments, and component prototypes.
 - sora (collaboration/ML infra experiments) — notebook and model orchestration explorations.
 
-(Replace these with repo links or demo URLs you want to highlight.)
+---
 
 ## Getting started / Local setup
 
@@ -87,7 +87,9 @@ bash
 npm install
 # compile if TypeScript
 npm run compile
-# run extension host (in VS Code: press
+# run extension host 
+
+---
 
 ##Development & Build (example workflows)
 
@@ -105,6 +107,8 @@ For security checks (Snyk) and linting, add Cl steps:
 snyk test or snyk monitor in your Cl
 npm run lint
 npm test
+
+---
 
 ##Contributing
 
