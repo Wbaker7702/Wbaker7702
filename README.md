@@ -76,58 +76,56 @@ Clone the repo:
 git clone [https://github.com/Wbaker7702/Wbaker7702.git](https://github.com/Wbaker7702/Wbaker7702.git)
 cd Wbaker7702
 
-Development & Build Workflows
+General recommendations for most projects:
+Install Node.js 18+ (if JS/TS project).
+Use npm or yarn to install dependencies:
+<!-- end list -->
 
-Use GitHub Actions to automate builds and tests.
+npm install
+# or
+yarn
 
-Example workflow files live under .github/workflows/ (e.g., build.yml) to run Cl on pushes and PRs.
+For VS Code extensions specifically:
 
-To create a local build/package (VSIX for extensions):
+# install deps
+npm install
+# compile if TypeScript
+npm run compile
+# run extension host
 
-bash
+⚙️ Development & Build Workflows
+​Use GitHub Actions to automate builds and tests. Example workflow files live under .github/workflows/ (e.g., build.yml) to run CI on pushes and PRs.
+​To create a local build/package (VSIX for extensions):
 
-npm install-g vsce
-
+npm install -g vsce
 vsce package
 
-For security checks (Snyk) and linting, add Cl steps:
+For security checks (Snyk) and linting, add CI steps:
 
-bash
 
-snyk test # or snyk monitor in your Cl
-
+snyk test # or snyk monitor in your CI
 npm run lint
-
 npm test
 
-Contributing
-
+🤝 Contributing
 Thanks for wanting to contribute! A suggested workflow:
 
-1. Fork the repo
-
-2. Create a branch: git checkout -b feat/your-feature
-
-3. Make changes, add tests where appropriate
-
-4. Run linters and tests locally
-
-5. Push and open a pull request
-
+Fork the repo
+Create a branch: git checkout -b feat/your-feature
+Make changes, add tests where appropriate
+Run linters and tests locally
+Push and open a pull request
 Be sure to check CONTRIBUTING.md and any project-specific guidelines.
 
-Contact
+📬 Contact
 
 GitHub: https://github.com/Wbaker7702
-
 Email (School): wbaker7702@mail.kvcc.edu
-
 Email (Personal): baker.wes2021@gmail.com
 
-License
+⚖️ License
 
-MIT/Apache 2.0 License
-
-Wes Baker©️™️®️
+MIT / Apache 2.0 License
+Wes Baker ©™®
 
 Thanks for visiting - I build in public. If you want to collaborate or ask about anything, open an issue or send a PR.
