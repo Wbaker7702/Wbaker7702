@@ -60,9 +60,15 @@ A few project callouts (link to repos or demos as appropriate):
 
 (Replace these with repo links or demo URLs you want to highlight.)
 
+## Getting started / Local setup
+
+Clone the repo:
+```bash
+git clone https://github.com/Wbaker7702/Wbaker7702.git
+cd Wbaker7702
 ---
 
-##General recommendations for most projects:
+General recommendations for most projects:
 
 Install Node.js 18+ (if JS/TS project)
 
