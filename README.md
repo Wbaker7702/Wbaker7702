@@ -1,5 +1,6 @@
 https://telebugs.com/?ref=CeoFindsEngineer
 
+<iframe src="https://github.com/sponsors/Wbaker7702/card" title="Sponsor Wbaker7702" height="225" width="600" style="border: 0;"></iframe>
 
 # Hi, I’m Wes 👋
 
