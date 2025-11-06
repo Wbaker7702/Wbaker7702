@@ -1,3 +1,5 @@
+https://telebugs.com/?ref=CeoFindsEngineer
+
 
 # Hi, I’m Wes 👋
 
