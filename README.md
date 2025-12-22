@@ -121,7 +121,7 @@ Be sure to check CONTRIBUTING.md and any project-specific guidelines.
 📬 Contact
 
 GitHub: https://github.com/Wbaker7702
-Email (School): wbaker7702@mail.kvcc.edu
+Email (School): wbaker@my365.bellevue.edu
 Email (Personal): baker.wes2021@gmail.com
 
 ⚖️ License
