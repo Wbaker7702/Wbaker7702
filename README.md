@@ -16,6 +16,17 @@ Welcome — I’m Wes. I build with **ML/AI**, ship products **fast**, and learn
 
 ---
 
+## 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
 ## 📈 My GitHub Stats
 
 Showcasing a few key metrics:
@@ -72,6 +83,8 @@ A few project callouts (link to repos or demos as appropriate):
 
 ## ⬇️ Getting Started / Local Setup
 
+This repository mainly serves as my GitHub profile. However, if you'd like to explore the configuration or build it locally:
+
 Clone the repo:
 
 ```bash
@@ -79,9 +92,9 @@ git clone https://github.com/Wbaker7702/Wbaker7702.git
 cd Wbaker7702
 ```
 
-General recommendations for most projects:
-Install Node.js 18+ (if JS/TS project).
-Use npm or yarn to install dependencies:
+General recommendations for projects I work on:
+1. Install Node.js 18+ (if JS/TS project).
+2. Use npm or yarn to install dependencies:
 
 ```bash
 npm install
@@ -98,26 +111,16 @@ npm install
 npm run compile
 ```
 
+---
+
 ## ⚙️ Development & Build Workflows
 
-Use GitHub Actions to automate builds and tests. Example workflow files live under `.github/workflows/` (e.g., build.yml) to run CI on pushes and PRs.
+I use GitHub Actions to automate builds, tests, and maintenance. Current workflows include **Audit**, **Build**, **Deploy**, and **Lint**.
 
-To create a local build/package (VSIX for extensions):
-
-```bash
-npm install -g vsce
-vsce package
-```
-
-For security checks (Snyk) and linting, add CI steps:
-
-```bash
-snyk test # or snyk monitor in your CI
-npm run lint
-npm test
-```
+---
 
 ## 🤝 Contributing
+
 Thanks for wanting to contribute! A suggested workflow:
 
 1. Fork the repo
@@ -126,11 +129,13 @@ Thanks for wanting to contribute! A suggested workflow:
 4. Run linters and tests locally
 5. Push and open a pull request
 
-Be sure to check `CONTRIBUTING.md` and any project-specific guidelines.
+Be sure to check `CONTRIBUTING.md` (if available) and any project-specific guidelines.
+
+---
 
 ## 📬 Contact
 
-* GitHub: https://github.com/Wbaker7702
+* GitHub: [Wbaker7702](https://github.com/Wbaker7702)
 * Email (School): wbaker@my365.bellevue.edu
 * Email (Personal): baker.wes2021@gmail.com
 
@@ -138,7 +143,7 @@ Be sure to check `CONTRIBUTING.md` and any project-specific guidelines.
 
 ## ⚖️ License
 
-MIT / Apache 2.0 License
-Wes Baker ©™®
+[MIT License](LICENSE)
+Wes Baker © 2026
 
 Thanks for visiting - I build in public. If you want to collaborate or ask about anything, open an issue or send a PR.
