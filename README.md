@@ -2,7 +2,12 @@ https://telebugs.com/?refCeoFindsEngineer
 
 # Hi, I’m Wes 👋
 
-[![Wes’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Wbaker7702&show_icons=true&theme=radical&rank_icon=github&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lint](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/lint.yml/badge.svg)](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/lint.yml)
+[![Audit](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/audit.yml/badge.svg)](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/audit.yml)
+[![Build](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/build.yml/badge.svg)](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/build.yml)
+[![Deploy](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/deploy.yml/badge.svg)](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/deploy.yml)
+
+[![Wes’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Wbaker7702&show_icons=true&theme=radical&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wbaker7702&theme=radical&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wbaker7702&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -74,57 +79,69 @@ A few project callouts (link to repos or demos as appropriate):
 
 Clone the repo:
 
-git clone [https://github.com/Wbaker7702/Wbaker7702.git](https://github.com/Wbaker7702/Wbaker7702.git)
+```bash
+git clone https://github.com/Wbaker7702/Wbaker7702.git
 cd Wbaker7702
+```
 
 General recommendations for most projects:
 Install Node.js 18+ (if JS/TS project).
 Use npm or yarn to install dependencies:
-<!-- end list -->
 
+```bash
 npm install
 # or
 yarn
+```
 
 For VS Code extensions specifically:
 
+```bash
 # install deps
 npm install
 # compile if TypeScript
 npm run compile
-# run extension host
+```
 
-⚙️ Development & Build Workflows
-​Use GitHub Actions to automate builds and tests. Example workflow files live under .github/workflows/ (e.g., build.yml) to run CI on pushes and PRs.
-​To create a local build/package (VSIX for extensions):
+## ⚙️ Development & Build Workflows
 
+Use GitHub Actions to automate builds and tests. Example workflow files live under `.github/workflows/` (e.g., build.yml) to run CI on pushes and PRs.
+
+To create a local build/package (VSIX for extensions):
+
+```bash
 npm install -g vsce
 vsce package
+```
 
 For security checks (Snyk) and linting, add CI steps:
 
-
+```bash
 snyk test # or snyk monitor in your CI
 npm run lint
 npm test
+```
 
-🤝 Contributing
+## 🤝 Contributing
 Thanks for wanting to contribute! A suggested workflow:
 
-Fork the repo
-Create a branch: git checkout -b feat/your-feature
-Make changes, add tests where appropriate
-Run linters and tests locally
-Push and open a pull request
-Be sure to check CONTRIBUTING.md and any project-specific guidelines.
+1. Fork the repo
+2. Create a branch: `git checkout -b feat/your-feature`
+3. Make changes, add tests where appropriate
+4. Run linters and tests locally
+5. Push and open a pull request
 
-📬 Contact
+Be sure to check `CONTRIBUTING.md` and any project-specific guidelines.
 
-GitHub: https://github.com/Wbaker7702
-Email (School): wbaker@my365.bellevue.edu
-Email (Personal): baker.wes2021@gmail.com
+## 📬 Contact
 
-⚖️ License
+* GitHub: https://github.com/Wbaker7702
+* Email (School): wbaker@my365.bellevue.edu
+* Email (Personal): baker.wes2021@gmail.com
+
+---
+
+## ⚖️ License
 
 MIT / Apache 2.0 License
 Wes Baker ©™®
