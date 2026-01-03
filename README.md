@@ -1,8 +1,3 @@
-[![Audit](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/audit.yml/badge.svg)](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/audit.yml)
-[![Build](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/build.yml/badge.svg)](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/build.yml)
-[![Deploy](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/deploy.yml/badge.svg)](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/deploy.yml)
-[![Lint](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/lint.yml/badge.svg)](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/lint.yml)
-
 https://telebugs.com/?refCeoFindsEngineer
 
 # Hi, I’m Wes 👋
@@ -120,14 +115,7 @@ npm run compile
 
 ## ⚙️ Development & Build Workflows
 
-I use GitHub Actions to automate builds, tests, and maintenance. Current workflows include:
-
-| Workflow | Status | Description |
-|----------|--------|-------------|
-| **Audit** | [![Audit](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/audit.yml/badge.svg)](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/audit.yml) | Performs security audits |
-| **Build** | [![Build](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/build.yml/badge.svg)](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/build.yml) | Builds the project/artifacts |
-| **Deploy** | [![Deploy](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/deploy.yml/badge.svg)](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/deploy.yml) | Handles deployment tasks |
-| **Lint** | [![Lint](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/lint.yml/badge.svg)](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/lint.yml) | Checks code quality and style |
+I use GitHub Actions to automate builds, tests, and maintenance. Current workflows include **Audit**, **Build**, **Deploy**, and **Lint**.
 
 ---
 
