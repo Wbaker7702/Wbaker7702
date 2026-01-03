@@ -2,11 +2,6 @@ https://telebugs.com/?refCeoFindsEngineer
 
 # Hi, I’m Wes 👋
 
-[![Lint](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/lint.yml/badge.svg)](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/lint.yml)
-[![Audit](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/audit.yml/badge.svg)](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/audit.yml)
-[![Build](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/build.yml/badge.svg)](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/build.yml)
-[![Deploy](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/deploy.yml/badge.svg)](https://github.com/Wbaker7702/Wbaker7702/actions/workflows/deploy.yml)
-
 [![Wes’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Wbaker7702&show_icons=true&theme=radical&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wbaker7702&theme=radical&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wbaker7702&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
