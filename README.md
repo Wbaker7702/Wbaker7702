@@ -31,7 +31,7 @@ Welcome — I’m Wes. I build with **ML/AI**, ship products **fast**, and learn
 
 Showcasing a few key metrics:
 
-[![GitHub overall stats](https://github-readme-stats.vercel.app/api?username=Wbaker7702&show_icons=true&theme=radical&hide_title=true&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub overall stats](https://github-readme-stats.vercel.app/api?username=Wbaker7702&show_icons=true&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
