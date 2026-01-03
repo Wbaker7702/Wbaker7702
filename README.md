@@ -143,7 +143,7 @@ Be sure to check `CONTRIBUTING.md` (if available) and any project-specific guide
 
 ## ⚖️ License
 
-[MIT License](LICENSE)
+[MIT License/ Apache 2.0](LICENSE)
 Wes Baker © 2026
 
 Thanks for visiting - I build in public. If you want to collaborate or ask about anything, open an issue or send a PR.
